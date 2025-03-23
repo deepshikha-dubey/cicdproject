@@ -34,4 +34,4 @@ steps:
       
 images:
   - 'southamerica-east1-docker.pkg.dev/upgradlabs-1738334790345/amit23comp/myapp:$BUILD_ID'
-logsBucket: "gs://shikha17"
+logsBucket: "gs://firstbucket122"
